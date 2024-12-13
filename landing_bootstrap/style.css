@@ -1,0 +1,27 @@
+header{
+    position: fixed;  
+    z-index: 999;         
+}
+
+.nav-link{
+    width: 200px;
+}
+
+#banner,#promo1{
+    min-height: 70vh;
+}
+
+#banner{
+    background: url(./img/Anotación\ 2024-12-13\ 114641.png) center center/ cover;
+    background-attachment: fixed;
+}
+
+#promo1{
+    background: url(./img/JHBMY3RWCRG4FAX5SSRCRYUIFI.avif) center center/cover;
+    background-attachment: fixed;
+}
+
+iframe{
+    width: 100%;
+    min-height: 50%;
+}
